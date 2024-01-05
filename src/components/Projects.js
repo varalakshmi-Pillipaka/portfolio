@@ -28,7 +28,7 @@ export const Projects = () => {
       description: `"The app typically consists of a front-end user interface, 
           which is responsible for displaying the items, managing the shopping cart, 
           and facilitating the checkout process."`,
-      link: "https://github.com/bindu8601/Foodorderingapp",
+      link: "https://github.com/varalakshmi-Pillipaka/E-Commerce-website/tree/master",
       image: shopping,
     },
     {
@@ -37,7 +37,7 @@ export const Projects = () => {
       description: `"This game involves the computer generating a random number between a given range, 
           and the player attempting to guess the number by entering their guesses in an input field. 
           Player's Score will get reduced if they don't guess the correct number."`,
-      link: "https://github.com/bindu8601/GuessMyNumber",
+      link: "https://github.com/varalakshmi-Pillipaka/GuessMyNumber/tree/master",
       image: guess_the_number,
     },
   ];
